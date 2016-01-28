@@ -221,4 +221,4 @@ A common issue is not being able to authenticate with GitHub. You need to use HT
 * [Setting Up SSH](https://help.github.com/articles/generating-ssh-keys)
 
 
-<a href='https://learn.co/lessons/deploy-on-day-1-summer-teachers' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/deploy-on-day-1-summer-teachers' title='Deploy on Day One'>Deploy on Day One</a> on Learn.co and start learning to code for free.</p>
